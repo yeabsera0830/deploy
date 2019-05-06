@@ -1,0 +1,12 @@
+{
+  "name": "__mocks__",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Facebook.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
